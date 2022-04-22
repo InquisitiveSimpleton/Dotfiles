@@ -85,6 +85,8 @@ To do:
 
     Not that long:
 
+        Detect if input is int or floating point and make seperate evaluator for them to reduce rounding error with: only if operator is * + - ^
+
         Why do you get the binary by dividing 2 and making odd as o - 1 and it is 1 and also why the power learncpp func bit method?;
 
         Add remainder or modulu operator but % is taken so r symbol;
