@@ -2,10 +2,6 @@
 -- found (e.g. lgi). If LuaRocks is not installed, do nothing.
 pcall(require, "luarocks.loader")
 
-
-
-local theme = "default"
-
 -- Standard awesome library
 local gears = require("gears")
 local awful = require("awful")
@@ -333,8 +329,11 @@ globalkeys = gears.table.join(
 
 -- Custom
 	
-	-- Firefox
+	--- Firefox
 	awful.key({ modkey, "Control"}, "f", function () awful.spawn("firefox") end, {description = "run firefox", group = "applications"}),
+
+--- Firefox
+	awful.key({ modkey, "Control"}, "p", function () awful.spawn("firefox --private-window") end, {description = "run firefox in incognito", group = "applications"}),
 
 	-- Config file
 	awful.key({ modkey, "Control"}, "e", function () awful.spawn(editor_cmd .. " " .. awesome.conffile) end, {description = "config file", group = "awesome"}),
@@ -602,7 +601,7 @@ awful.spawn.with_shell("nitrogen --restore")
 
 
 -- Gaps
-beautiful.useless_gap = 5
+beautiful.useless_gap = 2
 beautiful.gap_single_client = false
 
 collectgarbage("setpause", 110)

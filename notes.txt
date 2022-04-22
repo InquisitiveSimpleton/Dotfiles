@@ -1,0 +1,138 @@
+          IMPORTANT
+
+You have a long way to go.
+
+Online:
+
+    To download/install:
+        Libraries:
+            Boost regex;
+
+            GMP or GNU Multiple Precision Arithmetic Library;
+
+        Packages:
+            Exa;
+            Note taking app that use vim? or note taking app the can save txt.;
+
+    Research:
+
+        HOW DO USE  IF IN BASH WHY IS IT SO HARD TO GUESS?
+
+        Why do you get the binary by dividing 2 and making odd as o - 1 and it is 1 and also why the power learncpp func bit method?;
+
+        What is compound?
+
+        Is it okay to save note.txt in git?
+
+        What is __base in strtol?;
+
+        learn more about hexadecimal and binary;
+
+        Find out time complexity of primal beast or what is the time complexity
+            of O(n) function executed for each loop of n or check every digit if its prime in 100;
+
+        add ccls to home not just git/practice;
+
+        Function takes specific multiple types like int or string or double C++;
+
+        Put this note on git; Read more about I/O stream manipulators;
+
+        how does setpricision and boolalpha work; stream manipulators;
+
+        Can you do stuff without monitor like moving mouse or not? stream how to initialize input stream as argument; 
+
+        char* vs char C++;
+
+        is unordered_set faster?;
+
+        stream buffers;
+
+        Parent[PimageBridgeParent];
+
+        is std::string actually 32 bytes or 256 bits?;
+
+        what inbuilt algorithm does C++ use for calculator;
+
+
+    Websites:
+        Regex: https://stackoverflow.com/questions/2811031/decimal-or-numeric-values-in-regular-expression-validation;
+
+        https://learnxinyminutes.com/;
+
+        Standard revision cppreference;
+
+To do:
+
+    Will take long:
+
+        Make your calculator as object and symbolic calculation.;
+
+        garbage collector in calc.;
+
+        Learn C++ and C#;
+
+        GHB;
+
+        Learn about networking as much as a possible
+
+        Decompile raot it is il2cpp
+
+        Reverse engineer Roblox extensions of how they get regional servers
+
+        Learn HTML, JS, CSS, API's.
+
+        Start Khan Academy after we get internet;
+
+    Not that long:
+
+        Why do you get the binary by dividing 2 and making odd as o - 1 and it is 1 and also why the power learncpp func bit method?;
+
+        Add remainder or modulu operator but % is taken so r symbol;
+
+        Make a bash script to make backup of this note everytime it saved with logs and old_bak up to 20;
+
+        Sync all git files or anything that can be sync if we have reasonable internet.;
+        
+        Do the updates in next holiday either with offline or thether;
+
+        Make the collage cutout project
+
+Reminder:
+
+    Do your module when it arrives;
+
+    Better to read just docs than tutorials;
+
+    Practice on Codewars?, Leetcode, ProjectEuler everyday.;
+
+    Check leaks;
+
+    Start Khan Academy after we get internet;
+
+    Cron to run processes scheduly;
+
+Commands;
+
+    Use these flags when compiling with g++: -pedantic-errors -Wall -Weffc++ -Wextra -Werror -Wsign-conversion -std=c++20;
+
+    wget -r -N -k -p -t 0 -l 2 -w 1 -E -I /cpp-tutorial/ -X "*" https://www.learncpp.com/;//this lack image when downloaded
+    
+	 NOT-IMPORTANT
+
+How does n^x>3 look like
+
+Recreate Tic-Tac-Toe with pygame
+	 
+Qutebrowser
+
+qtile
+
+Scratch for younger brother
+
+Create user to try Empress Noodles's theme
+
+Read Vimtutor
+
+Customize tags and wibox
+
+Think about a color theme: Snot green and Arch blue
