@@ -11,6 +11,7 @@ Online:
             GMP or GNU Multiple Precision Arithmetic Library;
 
         Packages:
+	    Powertop;#to check powerconsumption or any other package.
             Exa;
             Note taking app that use vim? or note taking app the can save txt.;
 
