@@ -1,16 +1,6 @@
 
 
 
-	  NEW GOAL PRIORITY
-
-sources:
-	https://v3rmillion.net/showthread.php?tid=1040972;
-	https://v3rmillion.net/showthread.php?tid=1167654;
-	https://v3rmillion.net/showthread.php?tid=1015902;
-	https://developer.roblox.com/en-us/api-reference/lua-docs;
-
-Make an extension for ping or get one
-
           IMPORTANT
 
 You have a long way to go.
