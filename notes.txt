@@ -1,3 +1,16 @@
+
+
+
+	  NEW GOAL PRIORITY
+
+sources:
+	https://v3rmillion.net/showthread.php?tid=1040972;
+	https://v3rmillion.net/showthread.php?tid=1167654;
+	https://v3rmillion.net/showthread.php?tid=1015902;
+	https://developer.roblox.com/en-us/api-reference/lua-docs;
+
+Make an extension for ping or get one
+
           IMPORTANT
 
 You have a long way to go.
@@ -21,17 +34,10 @@ Online:
 
         Why do you get the binary by dividing 2 and making odd as o - 1 and it is 1 and also why the power learncpp func bit method?;
 
-        What is compound?
-
-        Is it okay to save note.txt in git?
-
         What is __base in strtol?;
 
         learn more about hexadecimal and binary;
-
-        Find out time complexity of primal beast or what is the time complexity
-            of O(n) function executed for each loop of n or check every digit if its prime in 100;
-
+   
         add ccls to home not just git/practice;
 
         Function takes specific multiple types like int or string or double C++;
@@ -74,15 +80,17 @@ To do:
 
         GHB;
 
-        Learn about networking as much as a possible
+        Learn about networking as much as a possible;
 
-        Decompile raot it is il2cpp
+        Decompile raot it is il2cpp;
 
-        Reverse engineer Roblox extensions of how they get regional servers
+        Reverse engineer Roblox extensions of how they get regional servers;
 
-        Learn HTML, JS, CSS, API's.
+        Learn HTML, JS, CSS, API's.;
 
         Start Khan Academy after we get internet;
+
+	Reverse engineer roblox injectors;
 
     Not that long:
 
@@ -99,9 +107,20 @@ To do:
         
         Do the updates in next holiday either with offline or thether;
 
-        Make the collage cutout project
+        Make the collage cutout project;
+
+	Make keylogger;
+
+	Seperate Windows and Linux;
+	
+	Make snotenjoyer email and delete any association with snot and LLML like V3rmillion
+
 
 Reminder:
+
+    Make snotenjoyer email and delete any association with snot and LLML like V3rmillion
+
+    Read Synapse X docs;
 
     Do your module when it arrives;
 
@@ -116,6 +135,14 @@ Reminder:
     Cron to run processes scheduly;
 
 Commands;
+
+    //Windows
+    Event id: 1074; //for shutdown and restart
+	      6005; //for poweron
+	      6008l //for unexpected showdown
+	
+
+    powercgf /sleepstudy; //Windows to see power behavior
 
     Use these flags when compiling with g++: -pedantic-errors -Wall -Weffc++ -Wextra -Werror -Wsign-conversion -std=c++20;
 
